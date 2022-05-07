@@ -2,16 +2,13 @@
 index: -20211212
 title: 前端使用 WebAssembly 运行 Kociemba 算法
 description: 我们可以在浏览器中使用 WebAssembly 技术来运行 Kociemba 算法。
-icon: confirm
+icon: programming
 date: 2021-12-12
 category:
   - 博客
 tag:
   - WebAssembly
 ---
-
-我们直接在浏览器中使用 `WebAssembly` 技术来运行 [Kociemba 算法](https://github.com/muodov/kociemba)。
-
 
 为了完成魔方自动复原的操作，我们需要一个算法来帮助我们以较少的步骤，完成复原过程，这里选择了 [Kociemba 算法](https://github.com/muodov/kociemba)，也叫二阶段算法。
 
