@@ -34,6 +34,8 @@ export default hopeTheme({
 
   themeColor: false,
 
+  fullscreen: false,
+
   // GitHub
   docsRepo: "yliaz/portfolio-vuepress",
   docsBranch: "master",
@@ -41,7 +43,7 @@ export default hopeTheme({
 
   blog: {
     name: "尴尬风流",
-    description: "一个前端开发者",
+    description: "一个95后搬砖少年",
     intro: "/intro.html",
     medias: {
       // Email: "mailto:zhuyestu@gmail.com",
@@ -55,45 +57,43 @@ export default hopeTheme({
       // Weibo: "https://example.com",
       // Youtube: "https://example.com",
       // Zhihu: "https://example.com",
-      Bilibili: "https://space.bilibili.com/2001085527"
+      Bilibili: ["https://space.bilibili.com/2001085527", 'docs/.vuepress/public/icons/bilibili.svg'],
+      '掘金': ["https://juejin.cn/user/2911162522934215", "docs/.vuepress/public/icons/juejin.svg"],
+      '微信': ["/wechat", "docs/.vuepress/public/icons/wechat.svg"],
     },
   },
 
-  encrypt: {
-    config: {
-      "/guide/encrypt.html": ["1234"],
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/guide/encrypt.html": ["1234"],
+  //   },
+  // },
 
   plugins: {
     blog: {
       autoExcerpt: true,
     },
 
-    // 如果你不需要评论，可以直接删除 comment 配置，
-    // 以下配置仅供体验，如果你需要评论，请自行配置并使用自己的环境，详见文档。
-    // 为了避免打扰主题开发者以及消耗他的资源，请不要在你的正式环境中直接使用下列配置!!!!!
     comment: {
       /**
        * Using giscus
        */
       type: "giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "yliaz/portfolio-next",
+      repoId: "R_kgDOHTAusg",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOHTAuss4CO-0U",
+    },
 
-      /**
-       * Using twikoo
-       */
-      // type: "twikoo",
-      // envId: "https://twikoo.ccknbc.vercel.app",
+    copyright: {
+      hostname: "https://zhuye.dev",
+      author: "尴尬风流",
+      license: "MIT",
+      global: false,
+    },
 
-      /**
-       * Using Waline
-       */
-      // type: "waline",
-      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+    feed: {
+      rss: true,
     },
 
     mdEnhance: {
