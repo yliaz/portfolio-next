@@ -37,7 +37,7 @@ export default hopeTheme({
   fullscreen: false,
 
   // GitHub
-  docsRepo: "yliaz/portfolio-vuepress",
+  docsRepo: "yliaz/portfolio-next",
   docsBranch: "master",
   docsDir: "docs",
 
