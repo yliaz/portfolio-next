@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "尴尬风流",
-    url: "https://zhuye.dev",
+    url: "https://github.com/yliaz",
   },
 
   iconPrefix: "iconfont icon-",
@@ -26,7 +26,7 @@ export default hopeTheme({
 
   displayFooter: true,
 
-  copyright: "Copyright © 2022 <a href='https://zhuye.dev' target='_blank'>尴尬风流</a>",
+  copyright: "Copyright © 2022 <a href='https://github.com/yliaz' target='_blank'>尴尬风流</a>",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
@@ -85,6 +85,7 @@ export default hopeTheme({
       repoId: "R_kgDOHTAusg",
       category: "Announcements",
       categoryId: "DIC_kwDOHTAuss4CO-0U",
+      
     },
 
     copyright: {

@@ -4,18 +4,28 @@
     }
 }
 
-.blog-info-list .blog-type-button .icon-wapper.active {
-    color: white;
+.blog-info-list .blog-type-button .icon-wapper {
+    color: #424A54;
+    &.active {
+        color: white;
+    }
 }
 
 .sidebar > .sidebar-links > li > .sidebar-link {
-    font-size: 1em;
-    line-height: 1.5;
+    font-size: 1em !important;
+    line-height: 1.5 !important;
 }
 
 .navbar .nav-link  {
     font-size: 16px;
     .icon {
         font-size: 1.2em !important;
+    }
+}
+
+div[class*=language-] .copy-code-button {
+    background-color: #fc6e50;
+    &:hover {
+        opacity: 0.8;
     }
 }

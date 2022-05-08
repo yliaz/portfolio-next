@@ -10,6 +10,8 @@ tag:
   - JavaScript
 ---
 
+今天，整理之前的文件时，发现当时做的一次关于闭包的技术分享，自我感觉做的十分专深入浅出了，索性直接把原PPT转成图片分享在这里吧。
+
 > 如果加载慢可以查看[github上面的PDF文件](https://github.com/yliaz/MyPPTs/blob/master/%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82%E9%97%AD%E5%8C%85.pdf)。
 
 ![彻底搞懂闭包_page-0001](https://zhuye-1308301598.file.myqcloud.com/markdown/%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82%E9%97%AD%E5%8C%85_page-0001.jpg)

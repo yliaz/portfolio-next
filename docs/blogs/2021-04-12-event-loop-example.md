@@ -33,13 +33,13 @@ for(i = 0; i<6; i++){
 
 **Chrome运行结果**
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583462503665-948e9980-f82e-4366-b684-e862836b80fd.png){width=400}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583462503665-948e9980-f82e-4366-b684-e862836b80fd.png) 
 
 
 
 **Firefox运行结果**
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583462318187-2e656acb-33ad-448e-87e4-b340e5517726.png){width=400}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583462318187-2e656acb-33ad-448e-87e4-b340e5517726.png) 
 
 
 
@@ -69,7 +69,7 @@ for(i = 0; i<6; i++){
 
  **Chrome运行结果**
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583461689589-3c5dc316-591d-4487-a272-d5199e35e717.png){width=400}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583461689589-3c5dc316-591d-4487-a272-d5199e35e717.png) 
 
 ​            
 
@@ -77,7 +77,7 @@ for(i = 0; i<6; i++){
 
 **Firefox运行结果**
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583461690506-f96912aa-b0d7-4be7-a080-f9b5bc0300b3.png){width=400}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583461690506-f96912aa-b0d7-4be7-a080-f9b5bc0300b3.png) 
 
 
 
@@ -344,7 +344,7 @@ for(let i = 0; i<6; i++){
 
 
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583488840454-d8977d63-e925-4732-b27b-97b7527aa8ae.png){width=400}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583488840454-d8977d63-e925-4732-b27b-97b7527aa8ae.png) 
 
 
 
@@ -370,7 +370,7 @@ for(i = 0; i<6; i++){
 
 
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583488883162-b9b0c9a9-c715-426d-a13c-7f0c3e6ad9ec.png){width=400}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583488883162-b9b0c9a9-c715-426d-a13c-7f0c3e6ad9ec.png) 
 
 
 
@@ -397,7 +397,7 @@ for(i = 0; i<6; i++){
 
 
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583488925962-07aa2d15-2f60-4cab-8488-ad7707139d81.png){width=400}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1583488925962-07aa2d15-2f60-4cab-8488-ad7707139d81.png) 
 
 
 

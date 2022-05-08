@@ -39,7 +39,7 @@ let b = Fn.prototype;
 a instanceof Fn			// true
 ```
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1589267280923-e8e5a19b-df0f-431e-bfd0-085775cab898.png){width=300}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1589267280923-e8e5a19b-df0f-431e-bfd0-085775cab898.png)
 
 
 
@@ -49,7 +49,7 @@ a instanceof Fn			// true
 a.__proto__ === Fn.prototype			// true
 ```
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1589267421636-a89f2e32-d3b2-4627-968b-aea653bb1887.png){width=300}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1589267421636-a89f2e32-d3b2-4627-968b-aea653bb1887.png)
 
 
 
@@ -59,7 +59,7 @@ a.__proto__ === Fn.prototype			// true
 a.__proto__ === b			// true
 ```
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1589267558294-755170e5-2c4f-4e39-8819-e2a6050b2b09.png){width=300}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1589267558294-755170e5-2c4f-4e39-8819-e2a6050b2b09.png) 
 
 
 
@@ -69,7 +69,7 @@ a.__proto__ === b			// true
 b instanceof Object			// true
 ```
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1589267688074-3f546ac4-2a86-46f4-abcb-33dc9b443f76.png){width=300}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1589267688074-3f546ac4-2a86-46f4-abcb-33dc9b443f76.png) 
 
 
 
@@ -79,7 +79,7 @@ b instanceof Object			// true
 b.__ptoto__ === Object.prototype			// true
 ```
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1589268050707-9dacf964-5573-409c-8213-3126b0d77438.png){width=300}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1589268050707-9dacf964-5573-409c-8213-3126b0d77438.png) 
 
 
 
@@ -96,7 +96,7 @@ Object.prototype.identifier = 'Object.prototype在这儿';
 console.dir(a);
 ```
 
-![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1589269114862-241a11f5-176b-49e2-8b7a-60e98a71e85c.png){width=400}
+![img](https://zhuye-1308301598.file.myqcloud.com/markdown/1589269114862-241a11f5-176b-49e2-8b7a-60e98a71e85c.png) 
 
 
 
