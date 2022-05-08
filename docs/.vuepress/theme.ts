@@ -46,7 +46,7 @@ export default hopeTheme({
   blog: {
     name: "尴尬风流",
     description: "一个95后搬砖少年",
-    intro: "/intro.html",
+    intro: "https://github.com/yliaz",
     medias: {
       // Email: "mailto:zhuyestu@gmail.com",
       // Facebook: "https://example.com",

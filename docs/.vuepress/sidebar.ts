@@ -138,6 +138,4 @@ export default sidebar({
       ] 
     }
   ],
-  "/reading-notes/": "structure",
-  "/leetcode/": "structure"
 });

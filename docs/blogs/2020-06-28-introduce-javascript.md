@@ -58,15 +58,15 @@ Brendan Eich用 **10天**时间设计出了JavaScript的原型。对，没错，
 
 ### JavaScript 的命名
 
-最初的**JavaScript**还不叫这个名字，而是叫做**Mocha**。<img src="https://zhuye-1308301598.file.myqcloud.com/markdown/172fb6f5828dc56b~tplv-t2oaga2asx-image.image" alt="mocha.png" style={{maxWidth: "20px"}} />
+最初的**JavaScript**还不叫这个名字，而是叫做**Mocha**。<img src="https://zhuye-1308301598.file.myqcloud.com/markdown/172fb6f5828dc56b~tplv-t2oaga2asx-image.image" alt="mocha.png" style="max-width: 20px" />
 
 之所以起一个跟咖啡有关的名字是为了蹭Java的热度（Java也是咖啡的一种）。
 
 ![giphy(11).gif](https://zhuye-1308301598.file.myqcloud.com/markdown/172fb6f5846e9bae~tplv-t2oaga2asx-image.image)
 
-在 Netscape Navigator 2.0 beta 中改名为 **LiveScript**。<img src="https://zhuye-1308301598.file.myqcloud.com/markdown/172fb6f584071ef7~tplv-t2oaga2asx-image.image" alt="LiveScript.png" style={{maxWidth: "20px"}} />
+在 Netscape Navigator 2.0 beta 中改名为 **LiveScript**。<img src="https://zhuye-1308301598.file.myqcloud.com/markdown/172fb6f584071ef7~tplv-t2oaga2asx-image.image" alt="LiveScript.png" style="max-width: 20px" />
 
-在 Netscape Navigator 2.0 beta3 中更名为 **JavaScript**。 <img src="https://zhuye-1308301598.file.myqcloud.com/markdown/172fb6f5afbdc6ad~tplv-t2oaga2asx-image.image" alt="JavaScript.png" style={{maxWidth: "20px"}} />
+在 Netscape Navigator 2.0 beta3 中更名为 **JavaScript**。 <img src="https://zhuye-1308301598.file.myqcloud.com/markdown/172fb6f5afbdc6ad~tplv-t2oaga2asx-image.image" alt="JavaScript.png" style="max-width: 20px" />
 
 ![giphy(13).gif](https://zhuye-1308301598.file.myqcloud.com/markdown/172fb6f5b429d219~tplv-t2oaga2asx-image.image)
 
