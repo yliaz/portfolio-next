@@ -1,7 +1,8 @@
 ---
-index: 1
-title: 力扣刷题
-description: 力扣刷题
+index: false
+article: false
+title: 力扣刷题目录
+description: 力扣刷题目录
 icon: leetcode
 date: 2022-04-20
 category:
@@ -12,7 +13,7 @@ tag:
 
 # 0. 总目录
 
-| <SimpleTag /> | <MediumTag /> | <HardTag /> | [总计](#) |
+| 简单 | 中等 | 困难 | [总计](#) |
 | :-----------: | :-----------: | :---------: | :---------------: |
 |      27       |      15       |      1      |        43         |
 
