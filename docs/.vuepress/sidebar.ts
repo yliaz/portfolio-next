@@ -138,4 +138,5 @@ export default sidebar({
       ] 
     }
   ],
+  "/reading-notes/": "structure",
 });

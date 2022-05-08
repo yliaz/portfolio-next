@@ -1,7 +1,7 @@
 ---
 index: 1
-title: 初尝试
-description: 初尝试
+title: Rust 初尝试
+description: Rust 初尝试
 icon: rust
 date: 2022-03-05
 category:
