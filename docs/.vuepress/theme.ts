@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "yliaz/portfolio-vuepress",
+  repo: "yliaz/portfolio-next",
 
   // navbar
   navbar: navbar,
