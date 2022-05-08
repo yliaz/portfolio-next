@@ -22,7 +22,7 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "欢迎来到尴尬风流的技术博客",
+  footer: "欢迎来到尴尬风流的个人主页",
 
   displayFooter: true,
 
@@ -40,6 +40,8 @@ export default hopeTheme({
   docsRepo: "yliaz/portfolio-next",
   docsBranch: "master",
   docsDir: "docs",
+  lastUpdated: false,
+  contributors: false,
 
   blog: {
     name: "尴尬风流",
@@ -101,6 +103,10 @@ export default hopeTheme({
       presentation: {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
+    },
+
+    readingTime: {
+      wordPerMinute: 100
     },
   },
 });

@@ -5,7 +5,7 @@ description: 我们可以在浏览器中使用 WebAssembly 技术来运行 Kocie
 icon: programming
 date: 2021-12-12
 category:
-  - 博客
+  - 技术博客
 tag:
   - WebAssembly
 ---

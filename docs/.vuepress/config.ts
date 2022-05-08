@@ -3,8 +3,8 @@ import theme from "./theme";
 
 export default defineUserConfig({
   lang: "zh-CN",
-  title: "尴尬风流的技术博客",
-  description: "尴尬风流的技术博客",
+  title: "尴尬风流的个人主页",
+  description: "尴尬风流的个人主页",
 
   base: "/",
 
@@ -13,10 +13,10 @@ export default defineUserConfig({
       "link",
       {
         rel: "stylesheet",
-        href: "//at.alicdn.com/t/font_3384059_3an7lxlbmvh.css",
+        href: "//at.alicdn.com/t/font_3384059_u2r2zljcg9s.css",
       },
     ],
   ],
 
-  theme,
+  theme: theme,
 });

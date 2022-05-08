@@ -5,7 +5,7 @@ icon: home
 title: 首页
 heroImage: /logo.svg
 bgImage: /background.gif
-heroText: 尴尬风流的技术博客
+heroText: 尴尬风流的个人主页
 tagline: This is the way.
 # projects:
 #   - icon: project
