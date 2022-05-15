@@ -1,6 +1,6 @@
 ---
 title: JavaScript
-icon: js2
+icon: js
 article: false
 index: false
 ---

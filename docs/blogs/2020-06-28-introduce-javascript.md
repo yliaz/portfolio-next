@@ -2,7 +2,7 @@
 index: -20200628
 title: JavaScript 昨天、今天和明天
 description: 任何可以用JavaScript编写的应用，最终都会用JavaScript来编写。
-icon: js2
+icon: js
 date: 2020-06-28
 category:
   - 技术博客

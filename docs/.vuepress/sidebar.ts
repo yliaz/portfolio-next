@@ -83,14 +83,14 @@ export default sidebar({
           text: "JavaScript",
           prefix: "04-js/",
           collapsable: true,
-          icon: "js2",
+          icon: "js",
           children: "structure"
         },
         {
           text: "TypeScript",
           prefix: "05-ts/",
           collapsable: true,
-          icon: "ts2",
+          icon: "ts",
           children: "structure"
         },
         {
@@ -136,7 +136,58 @@ export default sidebar({
           children: "structure"
         },
       ] 
+    },
+    {
+      text: "编程小技巧",
+      prefix: "tricks/",
+      icon: "magic",
+      children: "structure",
     }
   ],
   "/reading-notes/": "structure",
+  "/tutorial/": [
+    {
+      text: "Mac 使用技巧",
+      prefix: "01-macbook",
+      collapsable: true,
+      icon: "apple",
+      children: "structure"
+    },
+    {
+      text: "VSCode 使用技巧",
+      prefix: "02-vscode",
+      collapsable: true,
+      icon: "vscode",
+      children: "structure"
+    },
+    {
+      text: "Notion 使用技巧",
+      prefix: "03-notion",
+      collapsable: true,
+      icon: "notion",
+      children: "structure"
+    },
+    {
+      text: "Vuepress 个人知识库",
+      prefix: "04-vuepress",
+      collapsable: true,
+      icon: "vue",
+      children: "structure"
+    },
+    {
+      text: "Github 个人主页",
+      prefix: "05-github-profile",
+      collapsable: true,
+      icon: "github",
+      children: "structure"
+    },
+    {
+      text: "threejs 魔方",
+      prefix: "06-magic-cube",
+      collapsable: true,
+      icon: "cube",
+      children: "structure"
+    },
+  ],
+  "/leetcode/": "structure",
 });

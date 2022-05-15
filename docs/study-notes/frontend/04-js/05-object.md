@@ -2,7 +2,7 @@
 index: 5
 title: JavaScript 对象基本用法
 description: JavaScript 对象基本用法
-icon: js1
+icon: js
 date: 2020-04-24
 category:
   - 学习笔记

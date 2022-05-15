@@ -2,7 +2,7 @@
 index: 10
 title: Promise
 description: Promise 简单入门
-icon: js1
+icon: js
 date: 2020-04-29
 category:
   - 学习笔记

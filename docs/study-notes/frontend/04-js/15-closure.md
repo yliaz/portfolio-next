@@ -2,7 +2,7 @@
 index: 15
 title: JavaScript 闭包
 description: JavaScript 闭包
-icon: js1
+icon: js
 date: 2020-05-04
 category:
   - 学习笔记

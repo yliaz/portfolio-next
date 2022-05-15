@@ -2,7 +2,7 @@
 index: -20211011
 title: 自制一个 Docker 镜像
 description: 这篇文章教你如何自制一个 Docker 镜像
-icon: docker2
+icon: docker
 date: 2021-10-11
 category:
   - 技术博客

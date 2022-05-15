@@ -2,7 +2,7 @@
 index: 7
 title: 箭头函数
 description: 箭头函数
-icon: js1
+icon: js
 date: 2020-04-26
 category:
   - 学习笔记

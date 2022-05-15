@@ -1,6 +1,6 @@
 ---
 title: TypeScript
-icon: ts2
+icon: ts
 article: false
 index: false
 ---

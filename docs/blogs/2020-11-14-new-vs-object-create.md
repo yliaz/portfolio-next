@@ -2,7 +2,7 @@
 index: -20201114
 title: new 和 Object.create() 的区别
 description: 这篇文章介绍一下 new 和 Object.create() 的区别。
-icon: js2
+icon: js
 date: 2020-11-14
 category:
   - 技术博客

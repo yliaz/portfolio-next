@@ -2,7 +2,7 @@
 index: 3
 title: 细说 var、let 和 const
 description: 这篇文章主要为了谈一下 var、let 和 const 的区别
-icon: js1
+icon: js
 date: 2020-04-22
 category:
   - 学习笔记

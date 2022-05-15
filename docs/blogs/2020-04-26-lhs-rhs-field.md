@@ -2,7 +2,7 @@
 index: -20200426
 title: 从LHS和RHS角度理解作用域
 description: 说实话，我忘记当初为什么会写这篇文章了。。。
-icon: js2
+icon: js
 date: 2020-04-26
 category:
   - 技术博客

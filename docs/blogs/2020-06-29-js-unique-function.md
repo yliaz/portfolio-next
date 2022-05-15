@@ -2,7 +2,7 @@
 index: -20200629
 title: JavaScript 数组去重的n种方法
 description: 数组去重方法很多，这里取一些比较典型的进行一下总结
-icon: js2
+icon: js
 date: 2020-06-29
 category:
   - 技术博客

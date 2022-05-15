@@ -2,7 +2,7 @@
 index: 1
 title: JavaScript 基本语法速览
 description: JavaScript 基本语法速览
-icon: js1
+icon: js
 date: 2020-04-20
 category:
   - 学习笔记

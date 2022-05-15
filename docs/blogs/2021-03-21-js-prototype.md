@@ -2,7 +2,7 @@
 index: -20210321
 title: 6个问题理解 JS 原型和原型链
 description: 所有的函数都有一个prototype属性，存放着一个对象，当这个函数作为构造函数时，prototype中存放的对象就成为了构造函数构造出来的对象的原型。
-icon: js2
+icon: js
 date: 2021-03-21
 category:
   - 技术博客

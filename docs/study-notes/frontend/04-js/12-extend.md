@@ -2,7 +2,7 @@
 index: 12
 title: JavaScript 中的继承
 description: JavaScript 中的继承
-icon: js1
+icon: js
 date: 2020-05-01
 category:
   - 学习笔记

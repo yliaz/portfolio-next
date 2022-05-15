@@ -2,7 +2,7 @@
 index: -20210412
 title: 一道谷歌面试题引发的思考
 description: 最近刷Youtube偶然看见一个小姐姐分享自己遇到的两个Google面试题，由此产生了这篇文章。
-icon: js2
+icon: js
 date: 2021-04-12
 category:
   - 技术博客

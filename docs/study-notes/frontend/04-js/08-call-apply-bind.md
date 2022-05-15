@@ -2,7 +2,7 @@
 index: 8
 title: call()、apply() 和 bind()
 description: call()、apply() 和 bind() 对比
-icon: js1
+icon: js
 date: 2020-04-27
 category:
   - 学习笔记

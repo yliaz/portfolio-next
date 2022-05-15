@@ -2,7 +2,7 @@
 index: 2
 title: URL 基础
 description: 本文介绍一些 URL 基础知识
-icon: link
+icon: network
 date: 2020-04-05
 category:
   - 学习笔记
