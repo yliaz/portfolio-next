@@ -104,6 +104,7 @@ export default hopeTheme({
       presentation: {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
+      gfm: true,
     },
 
     readingTime: {

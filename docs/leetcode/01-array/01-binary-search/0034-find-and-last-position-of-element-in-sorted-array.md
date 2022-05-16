@@ -3,16 +3,14 @@ index: 34
 title: 34. 在排序数组中查找元素的第一个和最后一个位置
 description: 在排序数组中查找元素的第一个和最后一个位置
 icon: leetcode
-date: 2022-04-08
+date: 2022-04-11
 category:
   - 力扣刷题
 tag:
   - 力扣-数组
 ---
 
-## 题目 <Badge text="中等" type="warning"/>
-
-::: info 题目
+::: warning 在排序数组中查找元素的第一个和最后一个位置 <Badge text="中等" type="warning"/>
 
 给定一个按照升序排列的整数数组 `nums`，和一个目标值 `target`。找出给定目标值在数组中的开始位置和结束位置。
 
@@ -63,7 +61,7 @@ tag:
 
 :::: code-group
 
-::: code-group-item ts
+::: code-group-item TypeScript
 
 ```ts
 // 二分查找
