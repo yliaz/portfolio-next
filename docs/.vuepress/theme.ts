@@ -59,7 +59,7 @@ export default hopeTheme({
       // Weibo: "https://example.com",
       // Youtube: "https://example.com",
       // Zhihu: "https://example.com",
-      Bilibili: ["https://space.bilibili.com/2001085527", 'docs/.vuepress/public/icons/bilibili.svg'],
+      'Ada字幕组': ["https://space.bilibili.com/2001085527", 'docs/.vuepress/public/icons/bilibili.svg'],
       '掘金': ["https://juejin.cn/user/2911162522934215", "docs/.vuepress/public/icons/juejin.svg"],
       '微信': ["/wechat", "docs/.vuepress/public/icons/wechat.svg"],
     },
