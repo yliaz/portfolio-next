@@ -190,4 +190,5 @@ export default sidebar({
     },
   ],
   "/leetcode/": "structure",
+  "/materials/": "structure",
 });

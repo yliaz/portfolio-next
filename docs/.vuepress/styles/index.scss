@@ -29,3 +29,17 @@ div[class*=language-] .copy-code-button {
         opacity: 0.8;
     }
 }
+
+.custom-container.tip > .custom-container-title > a {
+    color: var(--tip-title-color);
+}
+
+.custom-container.danger > .custom-container-title > a {
+    color: var(--danger-title-color);
+}
+
+.custom-container.warning > .custom-container-title > a {
+    color: var(--warning-title-color);
+}
+
+

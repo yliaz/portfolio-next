@@ -10,13 +10,11 @@ tag:
   - 力扣-数组
 ---
 
-::: warning 在排序数组中查找元素的第一个和最后一个位置 <Badge text="中等" type="warning"/>
+::: warning <a href="https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/" target="_blank">在排序数组中查找元素的第一个和最后一个位置</a> <Badge text="中等" type="warning"/>
 
 给定一个按照升序排列的整数数组 `nums`，和一个目标值 `target`。找出给定目标值在数组中的开始位置和结束位置。
 
 如果数组中不存在目标值 `target`，返回 `[-1, -1]`。
-
-[题目链接](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 :::
 

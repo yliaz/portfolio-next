@@ -1,20 +1,18 @@
 ---
-index: 704
+index: 1
 title: 704. 二分查找
 description: 704. 二分查找
 icon: leetcode
-date: 2022-04-15
+date: 2022-04-10
 category:
   - 力扣刷题
 tag:
   - 力扣-数组
 ---
 
-::: tip x 的平方根 <Badge text="简单" type="tip"/>
+::: tip <a href="https://leetcode-cn.com/problems/binary-search/" target="_blank">二分查找</a> <Badge text="简单" type="tip"/>
 
 给定一个 n 个元素有序的（升序）整型数组 `nums` 和一个目标值 `target`  ，写一个函数搜索 `nums` 中的 `target` ，如果目标值存在返回下标，否则返回 `-1` 。
-
-[题目链接](https://leetcode-cn.com/problems/binary-search/)
 
 :::
 
