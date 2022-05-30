@@ -189,6 +189,71 @@ export default sidebar({
       children: "structure"
     },
   ],
-  "/leetcode/": "structure",
+  "/leetcode/": [
+    {
+      text: "数组",
+      prefix: "01-array/",
+      // collapsable: true,
+      icon: "leetcode",
+      children: [
+        {
+          text: "二分查找",
+          prefix: "01-binary-search/",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
+        {
+          text: "双指针",
+          prefix: "02-double-pointer",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
+        {
+          text: "滑动窗口",
+          prefix: "03-slide-window",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
+        {
+          text: "螺旋矩阵",
+          prefix: "04-spiral-matrix",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
+        {
+          text: "其他",
+          prefix: "05-others",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
+      ],
+    },
+    {
+      text: "链表",
+      prefix: "02-linked-list/",
+      icon: "leetcode",
+      children: [
+        {
+          text: "链表基础",
+          prefix: "01-basic-operations",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
+        {
+          text: "链表应用",
+          prefix: "02-others",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
+      ]
+    }
+  ],
   "/materials/": "structure",
 });
