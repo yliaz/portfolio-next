@@ -1,4 +1,14 @@
-# vue3 + vite2 + ts 脚手架搭建
+---
+index: -20220620
+title: vue3 + vite2 + ts 脚手架搭建
+description: 脚手架搭建记录
+icon: vue
+date: 2022-06-20
+category:
+  - 技术博客
+tag:
+  - Vue
+---
 
 ## 0. 写在前面
 
@@ -75,3 +85,4 @@ export default defineConfig({
 
 ### 2.2 配置 TypeScript
 
+（更新中...）

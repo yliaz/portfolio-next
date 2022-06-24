@@ -97,6 +97,7 @@ export default hopeTheme({
 
     feed: {
       rss: true,
+      count: 5,
     },
 
     mdEnhance: {

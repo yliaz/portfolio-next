@@ -126,7 +126,16 @@ export default sidebar({
           prefix: "01-rust/",
           collapsable: true,
           icon: "rust",
-          children: "structure"
+          children: [
+            "01-intro",
+            {
+              text: "通过例子学 Rust",
+              prefix: "02-learn-rust-by-example",
+              collapsable: true,
+              icon: "rust",
+              children: "structure"
+            },
+          ]
         },
         {
           text: "Linux",
