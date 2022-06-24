@@ -4,4 +4,4 @@
 
 使用 [vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) 搭建
 
-通过 Github action 自动部署，详见[文章](https://v2.zhuye.dev/blogs/2021-11-30-auto-deploy-using-github-actions.html)
+通过 Github action 自动部署，详见[文章](https://zhuye.dev/blogs/2021-11-30-auto-deploy-using-github-actions.html)
