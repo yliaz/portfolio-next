@@ -262,6 +262,20 @@ export default sidebar({
           children: "structure"
         },
       ]
+    },
+    {
+      text: "哈希",
+      prefix: "03-hash/",
+      icon: "leetcode",
+      children: [
+        {
+          text: "字母异位词",
+          prefix: "01-anagram",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
+      ]
     }
   ],
   "/materials/": "structure",
