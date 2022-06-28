@@ -10,7 +10,7 @@ tag:
   - 力扣-哈希
 ---
 
-::: warning <a href="https://leetcode-cn.com/problems/group-anagrams" target="_blank">环形链表 II</a> <Badge text="中等" type="warning"/>
+::: warning <a href="https://leetcode-cn.com/problems/group-anagrams" target="_blank">字母异位词分组</a> <Badge text="中等" type="warning"/>
 
 给你一个字符串数组，请你将**字母异位词**组合在一起。可以按任意顺序返回结果列表。
 
@@ -60,7 +60,7 @@ tag:
 
 :::: code-group
 
-::: code-group-item TypeScript 双指针法
+::: code-group-item TypeScript
 
 ```ts
 function groupAnagrams(strs: string[]): string[][] {
