@@ -297,6 +297,20 @@ export default sidebar({
           children: "structure"
         },
       ]
+    },
+    {
+      text: "字符串",
+      prefix: "04-string/",
+      icon: "leetcode",
+      children: [
+        {
+          text: "逆序",
+          prefix: "01-reverse",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
+      ]
     }
   ],
   "/materials/": "structure",
