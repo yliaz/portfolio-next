@@ -275,6 +275,27 @@ export default sidebar({
           icon: "leetcode",
           children: "structure"
         },
+        {
+          text: "数组交集",
+          prefix: "02-array-intersection",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
+        {
+          text: "n数之和",
+          prefix: "03-n-sum",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
+        {
+          text: "其他",
+          prefix: "04-others",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
       ]
     }
   ],

@@ -10,7 +10,7 @@ tag:
   - 力扣-哈希
 ---
 
-::: warning <a href="https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/" target="_blank">赎金信</a> <Badge text="中等" type="warning"/>
+::: warning <a href="https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/" target="_blank">找到字符串中所有字母异位词</a> <Badge text="中等" type="warning"/>
 
 给定两个字符串 `s `和 `p`，找到 `s` 中所有 `p` 的 异位词的子串，返回这些子串的起始索引。不考虑答案输出的顺序。
 
