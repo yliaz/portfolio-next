@@ -6,7 +6,7 @@ title: 首页
 heroImage: /logo.svg
 bgImage: /background.gif
 heroText: 尴尬风流的个人主页
-tagline: 🚧 网站迁移中，<a href="https://v2.zhuye.dev" target="_blank">访问旧版</a> 🚧
+tagline: This is the way.
 # projects:
 #   - icon: project
 #     name: 项目名称
