@@ -98,7 +98,7 @@ export default hopeTheme({
     feed: {
       rss: true,
       count: 5,
-      sorter: (pageA, pageB) => new Date(pageA.date).getTime() - new Date(pageB.date).getTime()
+      sorter: (pageA, pageB) => new Date(pageB.date).getTime() - new Date(pageA.date).getTime(),
     },
 
     mdEnhance: {
