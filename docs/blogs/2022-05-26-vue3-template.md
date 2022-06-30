@@ -8,6 +8,8 @@ category:
   - 技术博客
 tag:
   - Vue
+  - vite
+  - TypeScript
 ---
 
 ## 0. 写在前面
