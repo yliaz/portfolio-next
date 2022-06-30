@@ -310,6 +310,20 @@ export default sidebar({
           icon: "leetcode",
           children: "structure"
         },
+        {
+          text: "替换",
+          prefix: "02-replace",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
+        {
+          text: "子字符串",
+          prefix: "03-substring",
+          collapsable: true,
+          icon: "leetcode",
+          children: "structure"
+        },
       ]
     }
   ],
