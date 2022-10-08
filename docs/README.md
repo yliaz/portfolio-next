@@ -5,7 +5,7 @@ icon: home
 title: 首页
 heroImage: /logo.svg
 bgImage: /background.gif
-heroText: 尴尬风流的个人主页
+heroText: zy的个人主页
 tagline: First, solve the problem. Then, write the code.
 # projects:
 #   - icon: project

@@ -1,0 +1,177 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3384059 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1656646763518') format('woff2'),
+       url('iconfont.woff?t=1656646763518') format('woff'),
+       url('iconfont.ttf?t=1656646763518') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yuyanfanyi:before {
+  content: "\e643";
+}
+
+.icon-cube:before {
+  content: "\e66c";
+}
+
+.icon-ruby:before {
+  content: "\e62b";
+}
+
+.icon-database:before {
+  content: "\ebd8";
+}
+
+.icon-flutter:before {
+  content: "\e911";
+}
+
+.icon-nodejs:before {
+  content: "\e7a4";
+}
+
+.icon-tutorial:before {
+  content: "\ec99";
+}
+
+.icon-notion:before {
+  content: "\e603";
+}
+
+.icon-apple:before {
+  content: "\e665";
+}
+
+.icon-magic:before {
+  content: "\ec86";
+}
+
+.icon-reading:before {
+  content: "\ec98";
+}
+
+.icon-leetcode:before {
+  content: "\e60d";
+}
+
+.icon-rust:before {
+  content: "\e725";
+}
+
+.icon-linux:before {
+  content: "\e80b";
+}
+
+.icon-server:before {
+  content: "\ebe1";
+}
+
+.icon-site-structure:before {
+  content: "\eca6";
+}
+
+.icon-js:before {
+  content: "\e602";
+}
+
+.icon-ts:before {
+  content: "\ea2a";
+}
+
+.icon-layout:before {
+  content: "\e600";
+}
+
+.icon-html:before {
+  content: "\e632";
+}
+
+.icon-chrome:before {
+  content: "\ea09";
+}
+
+.icon-http:before {
+  content: "\e651";
+}
+
+.icon-git:before {
+  content: "\e687";
+}
+
+.icon-vue:before {
+  content: "\e799";
+}
+
+.icon-react:before {
+  content: "\e69e";
+}
+
+.icon-network:before {
+  content: "\eca3";
+}
+
+.icon-code:before {
+  content: "\e84e";
+}
+
+.icon-binary:before {
+  content: "\ed33";
+}
+
+.icon-css:before {
+  content: "\e61e";
+}
+
+.icon-iterm2:before {
+  content: "\e63c";
+}
+
+.icon-vscode:before {
+  content: "\e60f";
+}
+
+.icon-docker:before {
+  content: "\e672";
+}
+
+.icon-github:before {
+  content: "\e628";
+}
+
+.icon-programming:before {
+  content: "\eb9f";
+}
+
+.icon-home:before {
+  content: "\ebc8";
+}
+
+.icon-notes:before {
+  content: "\eb99";
+}
+
+.icon-blogs:before {
+  content: "\eb9b";
+}
+
+.icon-interview:before {
+  content: "\eca2";
+}
+
+.icon-translation:before {
+  content: "\ecb1";
+}
+
+.icon-musiclover:before {
+  content: "\ec7d";
+}
+

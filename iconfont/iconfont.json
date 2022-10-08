@@ -1,0 +1,289 @@
+{
+  "id": "3384059",
+  "name": "portfolio",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "个人主页",
+  "glyphs": [
+    {
+      "icon_id": "5207076",
+      "name": "语言翻译",
+      "font_class": "yuyanfanyi",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "5714724",
+      "name": "3D",
+      "font_class": "cube",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "23973730",
+      "name": "ruby",
+      "font_class": "ruby",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "12193515",
+      "name": "database",
+      "font_class": "database",
+      "unicode": "ebd8",
+      "unicode_decimal": 60376
+    },
+    {
+      "icon_id": "19971515",
+      "name": "file_type_flutter",
+      "font_class": "flutter",
+      "unicode": "e911",
+      "unicode_decimal": 59665
+    },
+    {
+      "icon_id": "6902533",
+      "name": "Node.js",
+      "font_class": "nodejs",
+      "unicode": "e7a4",
+      "unicode_decimal": 59300
+    },
+    {
+      "icon_id": "12195133",
+      "name": "school board",
+      "font_class": "tutorial",
+      "unicode": "ec99",
+      "unicode_decimal": 60569
+    },
+    {
+      "icon_id": "10559101",
+      "name": "notion",
+      "font_class": "notion",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "22894644",
+      "name": "apple",
+      "font_class": "apple",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "12195005",
+      "name": "magic 1",
+      "font_class": "magic",
+      "unicode": "ec86",
+      "unicode_decimal": 60550
+    },
+    {
+      "icon_id": "12195124",
+      "name": "open book",
+      "font_class": "reading",
+      "unicode": "ec98",
+      "unicode_decimal": 60568
+    },
+    {
+      "icon_id": "26267624",
+      "name": "leetcode",
+      "font_class": "leetcode",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "6817789",
+      "name": "rust",
+      "font_class": "rust",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "12463174",
+      "name": "linux",
+      "font_class": "linux",
+      "unicode": "e80b",
+      "unicode_decimal": 59403
+    },
+    {
+      "icon_id": "12193549",
+      "name": "server",
+      "font_class": "server",
+      "unicode": "ebe1",
+      "unicode_decimal": 60385
+    },
+    {
+      "icon_id": "12195198",
+      "name": "site structure optimization",
+      "font_class": "site-structure",
+      "unicode": "eca6",
+      "unicode_decimal": 60582
+    },
+    {
+      "icon_id": "18205372",
+      "name": "JavaScript",
+      "font_class": "js",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "27268488",
+      "name": "typescript_",
+      "font_class": "ts",
+      "unicode": "ea2a",
+      "unicode_decimal": 59946
+    },
+    {
+      "icon_id": "10720598",
+      "name": "Flex",
+      "font_class": "layout",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12600727",
+      "name": "html",
+      "font_class": "html",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "11983530",
+      "name": "chrome",
+      "font_class": "chrome",
+      "unicode": "ea09",
+      "unicode_decimal": 59913
+    },
+    {
+      "icon_id": "23225040",
+      "name": "http-api",
+      "font_class": "http",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "3994486",
+      "name": "git",
+      "font_class": "git",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "6496026",
+      "name": "Vue",
+      "font_class": "vue",
+      "unicode": "e799",
+      "unicode_decimal": 59289
+    },
+    {
+      "icon_id": "27681219",
+      "name": "react",
+      "font_class": "react",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "12195182",
+      "name": "network",
+      "font_class": "network",
+      "unicode": "eca3",
+      "unicode_decimal": 60579
+    },
+    {
+      "icon_id": "3735850",
+      "name": "code",
+      "font_class": "code",
+      "unicode": "e84e",
+      "unicode_decimal": 59470
+    },
+    {
+      "icon_id": "4865492",
+      "name": "script-binary",
+      "font_class": "binary",
+      "unicode": "ed33",
+      "unicode_decimal": 60723
+    },
+    {
+      "icon_id": "12600657",
+      "name": "css",
+      "font_class": "css",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "21765660",
+      "name": "iTerm2",
+      "font_class": "iterm2",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "26754195",
+      "name": "vscode",
+      "font_class": "vscode",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "3994432",
+      "name": "docker",
+      "font_class": "docker",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "1381385",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "12193183",
+      "name": "programming",
+      "font_class": "programming",
+      "unicode": "eb9f",
+      "unicode_decimal": 60319
+    },
+    {
+      "icon_id": "12193390",
+      "name": "garage",
+      "font_class": "home",
+      "unicode": "ebc8",
+      "unicode_decimal": 60360
+    },
+    {
+      "icon_id": "12193153",
+      "name": "brand book",
+      "font_class": "notes",
+      "unicode": "eb99",
+      "unicode_decimal": 60313
+    },
+    {
+      "icon_id": "12193167",
+      "name": "document",
+      "font_class": "blogs",
+      "unicode": "eb9b",
+      "unicode_decimal": 60315
+    },
+    {
+      "icon_id": "12195195",
+      "name": "partnership",
+      "font_class": "interview",
+      "unicode": "eca2",
+      "unicode_decimal": 60578
+    },
+    {
+      "icon_id": "12195367",
+      "name": "earth_1",
+      "font_class": "translation",
+      "unicode": "ecb1",
+      "unicode_decimal": 60593
+    },
+    {
+      "icon_id": "12194932",
+      "name": "music lover",
+      "font_class": "musiclover",
+      "unicode": "ec7d",
+      "unicode_decimal": 60541
+    }
+  ]
+}

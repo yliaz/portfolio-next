@@ -3,8 +3,8 @@ import theme from "./theme";
 
 export default defineUserConfig({
   lang: "zh-CN",
-  title: "尴尬风流",
-  description: "尴尬风流的个人主页",
+  title: "zy",
+  description: "zy的个人主页",
 
   base: "/",
 

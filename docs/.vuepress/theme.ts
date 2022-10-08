@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://zhuye.dev",
 
   author: {
-    name: "尴尬风流",
+    name: "zy",
     url: "https://github.com/yliaz",
   },
 
@@ -22,11 +22,11 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "欢迎来到尴尬风流的个人主页",
+  footer: "欢迎来到zy的个人主页",
 
   displayFooter: true,
 
-  copyright: "Copyright © 2022 <a href='https://github.com/yliaz' target='_blank'>尴尬风流</a>",
+  copyright: "Copyright © 2022 <a href='https://github.com/yliaz' target='_blank'>zy</a>",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
@@ -44,7 +44,7 @@ export default hopeTheme({
   contributors: false,
 
   blog: {
-    name: "尴尬风流",
+    name: "zy",
     description: "一个95后搬砖少年",
     intro: "https://github.com/yliaz",
     medias: {
@@ -90,7 +90,7 @@ export default hopeTheme({
 
     copyright: {
       hostname: "https://zhuye.dev",
-      author: "尴尬风流",
+      author: "zy",
       license: "MIT",
       global: false,
     },
