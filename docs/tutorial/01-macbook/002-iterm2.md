@@ -1,7 +1,7 @@
 ---
 index: 2
-title: iTerm2 安装与配置
-description: Macbook 中 iTerm2 安装与配置
+title: iTerm2 安装与配置指南
+description: Macbook 中 iTerm2 安装与配置指南
 icon: iterm2
 date: 2021-10-15
 category:
@@ -34,13 +34,15 @@ tag:
 
 ## 3. 安装 oh-my-zsh
 
-进入[官网](https://ohmyz.sh/) 
+`oh-my-zsh`  = 更好看的主题 + 好用的插件管理
 
-使用官网脚本一键安装👇
+进入[官网](https://ohmyz.sh/) ，使用官网脚本一键安装👇。
 
 ```shell
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+
+> 如果无法安装，一般是 raw.github.com 的 DNS 污染导致的，可以 Google，有多种处理方法。
 
 
 
@@ -115,7 +117,7 @@ source ~/.zshrc
 
 ### 4.3 安装 Nerd Font 字体
 
-Powerlevel10k 默认会装 Meslo Nerd Font，不过我们还可以在下面的[网站](https://www.nerdfonts.com/font-downloads)中挑选其他的自己喜欢的字体的 Nerd Font 扩展包。
+Powerlevel10k 默认会装 Meslo Nerd Font，不过我们还可以[这个网站](https://www.nerdfonts.com/font-downloads)中挑选其他的自己喜欢的字体的 Nerd Font 扩展包。
 
 下载好了之后，双击要安装字体对应的ttf文件，点击安装字体就可以了。
 
@@ -130,3 +132,137 @@ Powerlevel10k 默认会装 Meslo Nerd Font，不过我们还可以在下面的[�
 都选完了，就配置完成了。展示一下我的效果，感觉还不错！
 
 ![image-20220419142953663](https://zhuye-1308301598.file.myqcloud.com/markdown/image-20220419142953663.png)
+
+## 5. 安装插件
+
+我安装的插件列表：
+
+![image-20221128113742457](https://zhuye-1308301598.file.myqcloud.com/markdown/image-20221128113742457.png)
+
+> 插件安装涉及到修改 `~/.zshrc` 文件中的 `plugin` 。如果没有需要自行加入。zshrc 文件中大致如下图所示，会有一些注释提示插件写在哪里。
+
+![image-20221128160331552](https://zhuye-1308301598.file.myqcloud.com/markdown/image-20221128160331552.png)
+
+### 5.1 自带插件
+
+自带插件不需要安装，只需要修改 `~/.zshrc` 文件中的 `plugin` 即可启用。[这里是官方给出的插件列表](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)，数量不少，可以按需启用。
+
+> 注意：修改完插件后，即 zshrc 文件后，需要运行 `source ~/.zshrc` 更改才可以生效。
+
+#### 5.1.1 git
+
+> 插件地址：[git plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
+
+在 `plugin`中加入 `git` 即可启用。主要是一些 alias，用于简化 git 参数输入，具体用法可以查看[插件介绍](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)。
+
+#### 5.1.2 osx
+
+> 插件地址：[MacOS Plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos)
+
+在 `plugin`中加入 `osx` 即可启用。具体用法可以查看[插件介绍](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)。
+
+#### 5.1.3 brew
+
+> 插件地址：[brew plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/brew)
+
+在 `plugin`中加入 `brew` 即可启用。装不装都行，好像没啥大用。
+
+#### 5.1.4 colored-man-pages
+
+> 插件地址：[colored-man-pages](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/colored-man-pages)
+
+在 `plugin`中加入 `colored-man-pages` 即可启用。可以展示更好看的 man 帮助页面。
+
+#### 5.1.5 sudo
+
+> 插件地址：[sudo plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/sudo)
+
+在 `plugin`中加入 `sudo` 即可启用。在输入任何命令时，按两下 `ESC` 键即可在该命令前加上 `sudo` 前缀。
+
+#### 5.1.6 cp
+
+> 插件地址：[cp plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/cp)
+
+在 `plugin`中加入 `cp` 即可启用。增强 `cp` 命令。
+
+#### 5.1.7 command-not-found
+
+> 插件地址：[command-not-found plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found)
+
+尝试执行未找到的命令时，会提示应该安装哪些东西（通过 Homebrew）才可以使用对应命令。
+
+#### 5.1.8 safe-paste
+
+> 插件地址：[safe-paste plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/safe-paste)
+
+直接在终端中粘贴其他地方复制过来的命令时，会自动去掉末尾的回车，防止未经检查就直接执行。不过好像有时候会失效。
+
+
+
+### 5.2 先安装再启用的插件
+
+#### 5.2.1 zsh-sutosuggestions（推断命令）
+
+> [插件地址](https://github.com/zsh-users/zsh-autosuggestions)
+>
+> [安装说明（英文版）](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+
+**安装步骤：**
+
+（1）将代码仓库克隆到本地的 `$ZSH_CUSTOM/plugins` 目录（默认是 `~/.oh-my-zsh/custom/plugins`）
+
+```shell
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+```
+
+（2）在 `plugin`中加入 `zsh-autosuggestions` 以启用。
+
+**效果：**
+
+输入命令时，插件会根据历史，推断出可能得完整命令。按键盘的 `→` 键即可自动补全。
+
+![image-20221128153408877](https://zhuye-1308301598.file.myqcloud.com/markdown/image-20221128153408877.png)
+
+
+
+#### 5.2.2 zsh-syntax-highlighting（高亮命令提示）
+
+> [插件地址](https://github.com/zsh-users/zsh-syntax-highlighting)
+>
+> [安装说明（英文版）](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
+
+安装步骤：
+
+（1）将代码仓库克隆到本地。
+
+```shell
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+```
+
+（2）在 `plugin`中加入 `zsh-syntax-highlighting` 以启用。
+
+效果：
+
+命令会有高亮效果。最明显的就是，可执行命令为绿色，不可执行为红色。
+
+![image-20221128154858239](https://zhuye-1308301598.file.myqcloud.com/markdown/image-20221128154858239.png)
+
+
+
+#### 5.2.3 autojump（推断想访问的目录）
+
+**安装：**
+
+（1）用 Homebrew 装会方便一点
+
+```shell
+brew install autojump
+```
+
+（2）在 `plugin`中加入 `autojump` 以启用。
+
+**效果：**
+
+幻影移形！会根据历史访问过的目录推断你想要去的地方。
+
+![image-20221128160453759](https://zhuye-1308301598.file.myqcloud.com/markdown/image-20221128160453759.png)

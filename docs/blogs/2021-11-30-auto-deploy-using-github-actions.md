@@ -123,7 +123,7 @@ jobs:
 
 ## 配置服务器的 nginx
 
-我是在 `/etx/nginx/conf.d` 目录下新建了一个配置，当然也可以使用 `sites-enabled` 目录，下面是我的文件内容。
+我是在 `/etc/nginx/conf.d` 目录下新建了一个配置，当然也可以使用 `sites-enabled` 目录，下面是我的文件内容。
 
 涉及到申请 ssl 的证书，腾讯云有详细的教程，这里不再赘述。
 
