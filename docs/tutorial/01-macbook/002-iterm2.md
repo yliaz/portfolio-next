@@ -139,7 +139,7 @@ Powerlevel10k 默认会装 Meslo Nerd Font，不过我们还可以[这个网站]
 
 ![image-20221128113742457](https://zhuye-1308301598.file.myqcloud.com/markdown/image-20221128113742457.png)
 
-> 插件安装涉及到修改 `~/.zshrc` 文件中的 `plugin` 。如果没有需要自行加入。zshrc 文件中大致如下图所示，会有一些注释提示插件写在哪里。
+> 插件安装涉及到修改 `~/.zshrc` 文件中的 `plugin` 。如果没有，需要自行加入。zshrc 文件中大致如下图所示，会有一些注释提示插件写在哪里。
 
 ![image-20221128160331552](https://zhuye-1308301598.file.myqcloud.com/markdown/image-20221128160331552.png)
 
