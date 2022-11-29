@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://zhuye.dev",
 
   author: {
-    name: "zy",
+    name: "尴尬风流",
     url: "https://github.com/yliaz",
   },
 
@@ -22,11 +22,12 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "欢迎来到zy的个人主页",
+  footer: "欢迎来到尴尬风流的个人主页",
 
   displayFooter: true,
 
-  copyright: "Copyright © 2022 <a href='https://github.com/yliaz' target='_blank'>zy</a>",
+  copyright:
+    "Copyright © 2022 <a href='https://github.com/yliaz' target='_blank'>尴尬风流</a>",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
@@ -44,7 +45,7 @@ export default hopeTheme({
   contributors: false,
 
   blog: {
-    name: "zy",
+    name: "尴尬风流",
     description: "一个95后搬砖少年",
     intro: "https://github.com/yliaz",
     medias: {
@@ -59,9 +60,15 @@ export default hopeTheme({
       // Weibo: "https://example.com",
       // Youtube: "https://example.com",
       // Zhihu: "https://example.com",
-      'Ada字幕组': ["https://space.bilibili.com/2001085527", 'docs/.vuepress/public/icons/bilibili.svg'],
-      '掘金': ["https://juejin.cn/user/2911162522934215", "docs/.vuepress/public/icons/juejin.svg"],
-      '微信': ["/wechat", "docs/.vuepress/public/icons/wechat.svg"],
+      Ada字幕组: [
+        "https://space.bilibili.com/2001085527",
+        "docs/.vuepress/public/icons/bilibili.svg",
+      ],
+      掘金: [
+        "https://juejin.cn/user/2911162522934215",
+        "docs/.vuepress/public/icons/juejin.svg",
+      ],
+      微信: ["/wechat", "docs/.vuepress/public/icons/wechat.svg"],
     },
   },
 
@@ -85,12 +92,11 @@ export default hopeTheme({
       repoId: "R_kgDOHTAusg",
       category: "Announcements",
       categoryId: "DIC_kwDOHTAuss4CO-0U",
-      
     },
 
     copyright: {
       hostname: "https://zhuye.dev",
-      author: "zy",
+      author: "尴尬风流",
       license: "MIT",
       global: false,
     },
@@ -98,7 +104,8 @@ export default hopeTheme({
     feed: {
       rss: true,
       count: 5,
-      sorter: (pageA, pageB) => new Date(pageB.date).getTime() - new Date(pageA.date).getTime(),
+      sorter: (pageA, pageB) =>
+        new Date(pageB.date).getTime() - new Date(pageA.date).getTime(),
     },
 
     mdEnhance: {
@@ -110,7 +117,7 @@ export default hopeTheme({
     },
 
     readingTime: {
-      wordPerMinute: 100
+      wordPerMinute: 100,
     },
   },
 });
